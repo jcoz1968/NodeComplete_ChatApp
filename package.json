@@ -9,10 +9,11 @@
   },
   "engines": {
     "node": "8.9.3"
-  },  
+  },
   "author": "Coz",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "socket.io": "^1.4.8"
   }
 }
